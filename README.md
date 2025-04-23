@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
+![](https://komarev.com/ghpvc/?username=yesminehe&color=fb4362)
 <h1 align="center">Hi 👋, I'm Yasmine Hichri</h1>
 <h2 align="center">A passionate software engineering student</h2>
 <h3>When I code, I rely on</h3>
