@@ -39,6 +39,8 @@
 <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
 <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="Transformers" src="https://img.shields.io/badge/-Transformers-FF6F61?style=flat-square&logo=huggingface&logoColor=white" />
+<img alt="LLM" src="https://img.shields.io/badge/-LLM-000000?style=flat-square&logo=openai&logoColor=white" />
 
 </p>
 <h3>My GitHub contributions summary</h3>
