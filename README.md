@@ -1,4 +1,6 @@
-<table> <tr> <td width="60%"> <h1>Hi I'm Yasmine 👋</h1> <p>As a software engineering student with over 4 years of experience in Full Stack Development and Growth Hacking for clients globally, I excel in driving tech innovation and creating impactful user experiences. Known for my strategic vision and leadership, I bring technical expertise and a results-oriented approach to every project.</p> <p><a href="mailto:yasminehichri01@gmail.com">📧 Email: yasminehichri01@gmail.com</a></p> </td> <td width="40%"> <img src="image.jpg" alt="Yasmine's Profile Image" width="100%"> </td> </tr> </table>
+<table> <tr> <td width="60%"> <h1>Hi I'm Yasmine 👋</h1> <p>As a software engineering student with over 4 years of experience in Full Stack Development and Growth Hacking for clients globally, I excel in driving tech innovation and creating impactful user experiences. Known for my strategic vision and leadership, I bring technical expertise and a results-oriented approach to every project.</p> <p><a href="mailto:yasminehichri01@gmail.com">📧 Email: yasminehichri01@gmail.com</a></p> 
+![yesminehe's GitHub stats](https://github-readme-stats.vercel.app/api?username=yesminehe&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+</td> <td width="40%"> <img src="image.jpg" alt="Yasmine's Profile Image" width="100%"> </td> </tr> </table>
 <h3>🚀 Programming Languages</h3>
 <!-- Languages -->
 <p>
@@ -105,4 +107,3 @@
 
 <h3>My GitHub contributions summary</h3>
 
-![yesminehe's GitHub stats](https://github-readme-stats.vercel.app/api?username=yesminehe&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
