@@ -3,7 +3,7 @@
 <h2 align="center">A passionate software engineering student</h2>
 <p>As a software engineering student with over 4 years of experience in Full Stack Development and Growth Hacking for clients globally, I excel in driving tech innovation and creating impactful user experiences. Known for my strategic vision and leadership, I bring technical expertise and a results-oriented approach to every project.
 </p>
-<p>📧 Email : yasminehichri01@gmail.com</p>
+<a href="mailto:yasminehichri01@gmail.com">📧 Email : yasminehichri01@gmail.com</a>
 <h3>🚀 Programming Languages</h3>
 <!-- Languages -->
 <p>
