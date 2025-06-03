@@ -1,4 +1,6 @@
-![Cool Animation](./galaxy-13851_256.gif)
+<div align="center">
+  <img src="./galaxy-13851_256.gif" alt="Cool Animation" width="100%" />
+</div>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&pause=1000&color=9F79EE&center=true&vCenter=true&width=435&lines=AI+Developer+🌌;Tech+Explorer+Girl🚀;Building+Mentexa+🌠;Growth+Hacker+🧠;Web+Engineer+🛠️" alt="Typing SVG" />
 </h1>
