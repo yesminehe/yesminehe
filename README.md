@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=9F79EE&center=true&vCenter=true&lines=AI+Developer;Web+Engineer;Explorer+of+Digital+Worlds;Building+Mentexa+🌠" />
+  <img src="https://i.imgur.com/n9z3sLg.gif" width="100%" alt="Galaxy Banner"/>
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&pause=1000&color=9F79EE&center=true&vCenter=true&width=435&lines=AI+Developer+🌌;Tech+Explorer+Girl🚀;Building+Mentexa+🌠;Growth+Hacker+🧠;Web+Engineer+🛠️" alt="Typing SVG" />
+</h1>
 <h1>Hi I'm Yasmine 👋</h1> <p>As a software engineering student with over 4 years of experience in Full Stack Development and Growth Hacking for clients globally, I excel in driving tech innovation and creating impactful user experiences. Known for my strategic vision and leadership, I bring technical expertise and a results-oriented approach to every project.</p> <p><a href="mailto:yasminehichri01@gmail.com">📧 Email: yasminehichri01@gmail.com</a></p> 
 
 <h3>🚀 Programming Languages</h3>
