@@ -120,3 +120,20 @@
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+## 🧠 Current Focus
+
+I'm currently working on **Mentexa**, a next-gen **coaching mind platform** that combines:
+
+- 🧠 Emotional AI  
+- 🗣️ Voice-to-voice interaction  
+- 📈 Real-time health metrics  
+
+> Empowering people to take care of their mental health through technology 💫
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=✨+Thank+you+for+visiting+my+profile!+✨" alt="Thank you message" />
+</p>
+
+<p align="center">
+  <strong>Let’s connect and build something amazing together 🚀</strong>
+</p>
