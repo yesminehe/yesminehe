@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=9F79EE&center=true&vCenter=true&lines=AI+Developer;Web+Engineer;Explorer+of+Digital+Worlds;Building+Mentexa+🌠" />
+</p>
 <h1>Hi I'm Yasmine 👋</h1> <p>As a software engineering student with over 4 years of experience in Full Stack Development and Growth Hacking for clients globally, I excel in driving tech innovation and creating impactful user experiences. Known for my strategic vision and leadership, I bring technical expertise and a results-oriented approach to every project.</p> <p><a href="mailto:yasminehichri01@gmail.com">📧 Email: yasminehichri01@gmail.com</a></p> 
 
 <h3>🚀 Programming Languages</h3>
