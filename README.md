@@ -107,9 +107,12 @@
   <img alt="Design Patterns" src="https://img.shields.io/badge/-Design_Patterns-4B0082?style=flat-square&logoColor=white" />
   <img alt="UML" src="https://img.shields.io/badge/-UML-007396?style=flat-square&logoColor=white" />
 </p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3>My GitHub contributions summary</h3>
+## By the way here are some of my statistics 🚀
+![yesminehe's github stats](https://github-readme-stats.vercel.app/api?username=yesminehe&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yesminehe&theme=tokyonight" alt="mystreak"/>
+![yesminehe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesminehe&theme=tokyonight&layout=compact)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yesminehe&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yesminehe&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
