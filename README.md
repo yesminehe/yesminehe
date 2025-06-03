@@ -10,7 +10,7 @@
 <p><a href="mailto:yasminehichri01@gmail.com">📧 Email: yasminehichri01@gmail.com</a></p> 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## Programming Languages 🚀 
+##Programming Languages 🚀 
 <!-- Languages -->
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
