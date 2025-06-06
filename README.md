@@ -1,34 +1,17 @@
-# Yasmine Hichri 🌌
-
 <div align="center">
-  <img src="./galaxy-13851_256.gif" alt="Galaxy Animation" width="30%" style="border-radius: 10px;" />
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=28&pause=1000&color=9F79EE&center=true&vCenter=true&width=500&lines=AI+Developer+🌌;Tech+Explorer+🚀;Building+Mentexa+🌠;Growth+Hacker+🧠;Web+Engineer+🛠️" alt="Typing SVG" />
-  </h1>
+  <img src="./galaxy-13851_256.gif" alt="Cool Animation" width="40%" />
 </div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&pause=1000&color=9F79EE&center=true&vCenter=true&width=435&lines=AI+Developer+🌌;Tech+Explorer+Girl🚀;Building+Mentexa+🌠;Growth+Hacker+🧠;Web+Engineer+🛠️" alt="Typing SVG" />
+</h1>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h1>Hi I'm Yasmine 🌠</h1>
+<p>As a software engineering student with over 4 years of experience in Full Stack Development and Growth Hacking for clients globally, I excel in driving tech innovation and creating impactful user experiences. Known for my strategic vision and leadership, I bring technical expertise and a results-oriented approach to every project.</p> 
+<p><a href="mailto:yasminehichri01@gmail.com">📧 Email: yasminehichri01@gmail.com</a></p> 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## 👋 About Me
-
-Hi, I'm **Yasmine**, a passionate **Software Engineering student** with over **4 years of experience** in **Full Stack Development** and **Growth Hacking**. I specialize in creating innovative, user-centric solutions with a focus on **AI**, **web development**, and **data-driven strategies**. My goal is to empower users through technology and build impactful digital experiences.
-
-📧 **Email**: [yasminehichri01@gmail.com](mailto:yasminehichri01@gmail.com)  
-🌐 **Connect with me**: [LinkedIn](#) | [Portfolio](#) | [GitHub](https://github.com/yesminehe)
-
----
-
-## 📑 Table of Contents
-
-- [🛠️ Tech Stack](#-tech-stack)
-- [🚀 Projects](#-projects)
-- [📊 GitHub Stats](#-github-stats)
-- [🧠 Current Focus](#-current-focus)
-- [📬 Get in Touch](#-get-in-touch)
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
+##Programming Languages 🚀 
+<!-- Languages -->
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -39,8 +22,8 @@ Hi, I'm **Yasmine**, a passionate **Software Engineering student** with over **4
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
-
-### Backend Technologies & Frameworks
+## Backend Technologies & Frameworks ⚙
+<!-- Backend / Frameworks -->
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
@@ -48,130 +31,159 @@ Hi, I'm **Yasmine**, a passionate **Software Engineering student** with over **4
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
 </p>
-
-### Frontend Technologies & Frameworks
+## Frontend Technologies & Frameworks
+<!-- Frontend / UI -->
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
 </p>
-
-### Databases
+## Databases
+<!-- Databases -->
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
   <img alt="SQL Server" src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
-
-### DevOps & Tools
+## DevOps & Tools
+<!-- DevOps / Tools -->
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
-
-### Data Science, Machine Learning & AI
+## Data Science, Machine Learning & AI
+<!-- Data Science & AI -->
 <p>
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-4C77B6?style=flat-square&logo=seaborn&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img alt="NLTK" src="https://img.shields.io/badge/-NLTK-009688?style=flat-square&logoColor=white" />
+  <img alt="Transformers" src="https://img.shields.io/badge/-Transformers-FF6F61?style=flat-square&logo=huggingface&logoColor=white" />
+  <img alt="LLM" src="https://img.shields.io/badge/-LLM-000000?style=flat-square&logo=openai&logoColor=white" />
 </p>
-
-### Design & UI/UX Tools
+## Design & UI/UX Tools
+<!-- Tools & Design -->
 <p>
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" />
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
+  <img alt="Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
+  <img alt="Blender" src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
 </p>
-
-### Analytics & SEO
+ <!-- Analytics & SEO -->
+## Analytics & SEO
+ <p>
+  I believe that any digital project needs strong SEO and analytics foundations. I use Google Analytics to track and analyze user behavior, enabling me to make data-driven decisions to improve user engagement and site performance. Google Search Console helps me monitor website health and optimize content for search engines, ensuring that my projects achieve higher visibility and drive organic traffic.
+</p>
 <p>
-  <img alt="Google Analytics" src="https://img.shields.io/badge/-Google_Analytics-4285F4?style=flat-square&logo=google-analytics&logoColor=white" />
-  <img alt="Google Search Console" src="https://img.shields.io/badge/-Google_Search_Console-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img alt="Google Analytics" src="https://img.shields.io/badge/-Google%20Analytics-4285F4?style=flat-square&logo=google-analytics&logoColor=white" />
+  <img alt="Google Search Console" src="https://img.shields.io/badge/-Google%20Search%20Console-4285F4?style=flat-square&logo=google&logoColor=white" />
 </p>
 
----
+##Data Visualization Tools
+<p>
+  <img alt="Chart.js" src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+  <img alt="CanvasJS" src="https://img.shields.io/badge/-CanvasJS-EF2D5E?style=flat-square&logo=canvas&logoColor=white" />
+</p>
+## Hardware & Embedded Systems
+<!-- Hardware -->
+<p>
+  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+</p>
+## Agile, Collaboration & Project Management
+<!-- Agile & Collaboration -->
+<p>
+  <img alt="Agile" src="https://img.shields.io/badge/-Agile-DD0031?style=flat-square&logo=agile&logoColor=white" />
+  <img alt="Scrum" src="https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white" />
+  <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
+  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+</p>
+## Software Engineering Concepts
+<!-- Software Concepts -->
+<p>
+  <img alt="Design Patterns" src="https://img.shields.io/badge/-Design_Patterns-4B0082?style=flat-square&logoColor=white" />
+  <img alt="UML" src="https://img.shields.io/badge/-UML-007396?style=flat-square&logoColor=white" />
+</p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## 🚀 Projects
 
-### 🧠 AI Gamified Traffic Sign Recognition Tool
-*AI-powered application for interactive road sign learning*  
-- **Tech**: YOLOv8, Python, Flask  
-- **Features**: Real-time object detection, gamified learning for "Code de la Route" centers  
-- **Impact**: Enhanced user engagement through interactive feedback  
-🔗 [View Repository](#) | [Live Demo](#)
-
-### 🌐 SEO Optimization with Machine Learning
-*Dynamic content optimization for better search rankings*  
-- **Tech**: Python, Scikit-learn, Pandas  
-- **Features**: Automated keyword analysis, content strategy insights  
-- **Impact**: Improved SEO performance and organic traffic  
-🔗 [View Repository](#)
-
-### 📦 Smart Inventory Management Web App
-*Full-stack platform for efficient inventory tracking*  
-- **Tech**: React, Node.js, MongoDB  
-- **Features**: Real-time updates, predictive analytics, stock optimization  
-- **Impact**: Streamlined inventory processes for businesses  
-🔗 [View Repository](#)
-
-### 📚 E-Learning Platform with AI-Powered Features
-*Scalable platform for personalized learning*  
-- **Tech**: React, Node.js, NLP Models  
-- **Features**: Role-based access, automatic academic paper generation  
-- **Impact**: Enhanced learning experiences with AI-driven insights  
-🔗 [View Repository](#)
-
-### 😄 Emotion Classification Model
-*CNN-based model for emotion detection*  
-- **Tech**: TensorFlow, Python  
-- **Features**: 95% accuracy in classifying joy, sadness, anger, and fear  
-- **Impact**: Robust model with Batch Normalization and Dropout  
-🔗 [View Repository](#)
-
----
-
-## 📊 GitHub Stats
-
+## By the way here are some of my statistics 🚀
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yesminehe&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yesminehe&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesminehe&theme=tokyonight&layout=compact" alt="Top Languages" />
+![yesminehe's github stats](https://github-readme-stats.vercel.app/api?username=yesminehe&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yesminehe&theme=tokyonight" alt="mystreak"/>
+![yesminehe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesminehe&theme=tokyonight&layout=compact)
+
 </div>
-
----
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ## 🧠 Current Focus
 
-I'm building **Mentexa**, a **next-gen coaching mind platform** that empowers mental health through:  
-- 🧠 **Emotional AI** for personalized insights  
-- 🗣️ **Voice-to-voice interaction** for seamless communication  
-- 📈 **Real-time health metrics** for actionable feedback  
+I'm currently working on **Mentexa**, a next-gen **coaching mind platform** that combines:
 
-🌟 *Transforming mental wellness with technology*
+- 🧠 Emotional AI  
+- 🗣️ Voice-to-voice interaction  
+- 📈 Real-time health metrics  
 
----
+Empowering people to take care of their mental health through technology 💫
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ <h2>🚀 Projects</h2>
 
-## 📬 Get in Touch
+  <div class="project">
+    <h5>🧠 AI Gamified Traffic Sign Recognition Tool</h5>
+    <p>Built an <strong>AI-powered gamified application</strong> to help users learn road signs interactively.</p>
+    <ul>
+      <li>Integrated <strong>YOLOv8 for real-time object detection</strong> and classification of traffic signs.</li>
+      <li>Designed for <strong>"Code de la Route"</strong> centers to enhance learning through real-time detection and feedback.</li>
+    </ul>
+  </div>
 
-<div align="center">
-  <p>
-    <strong>Let’s collaborate and build something extraordinary! 🚀</strong>
-  </p>
-  <a href="mailto:yasminehichri01@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/yesminehe">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+  <div class="project">
+    <h5>🌐 SEO Optimization with Machine Learning</h5>
+    <p>Developed a <strong>machine learning-based solution</strong> to dynamically optimize web content.</p>
+    <ul>
+      <li>Boosted <strong>SEO performance</strong> and <strong>user engagement</strong> by analyzing content structure and keywords.</li>
+      <li>Automated insights generation for improved content strategy.</li>
+    </ul>
+  </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=✨+Thanks+for+visiting+my+profile!+✨" alt="Thank you message" />
-</div>
+  <div class="project">
+    <h5>📦 Smart Inventory Management Web App</h5>
+    <p>Created a full-stack <strong>inventory management platform</strong> with AI integration.</p>
+    <ul>
+      <li>Provided <strong>real-time updates</strong> and <strong>optimization of stock</strong> based on usage patterns.</li>
+      <li>Enabled efficient tracking, alerts, and predictive analytics.</li>
+    </ul>
+  </div>
+
+  <div class="project">
+    <h5>📚 E-Learning Platform with AI-Powered Features</h5>
+    <p>Built a scalable <strong>e-learning system</strong> with:</p>
+    <ul>
+      <li><strong>Role-based access control</strong>, course creation, and progress tracking.</li>
+      <li>📄 <strong>Automatic academic paper generation</strong> based on user input and course content using NLP models.</li>
+    </ul>
+  </div>
+
+  <div class="project">
+    <h5>😄 Emotion Classification Model (95% Accuracy)</h5>
+    <p>Developed a CNN-based model to classify emotions: <strong>joy, sadness, anger, and fear</strong>.</p>
+    <ul>
+      <li>Achieved <strong>95% accuracy</strong> on test data.</li>
+      <li>Used <strong>Batch Normalization</strong>, <strong>Dropout</strong>, and <strong>Global Max Pooling</strong> to improve performance and reduce overfitting.</li>
+    </ul>
+  </div>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=✨+Thank+you+for+visiting+my+profile!+✨" alt="Thank you message" />
+</p>
+
+<p align="center">
+  <strong>Let’s connect and build something amazing together 🚀</strong>
+</p>
+ 
