@@ -132,7 +132,7 @@ Empowering people to take care of their mental health through technology 💫
  <h2>🚀 Projects</h2>
 
   <div class="project">
-    <h3>🧠 AI Gamified Traffic Sign Recognition Tool</h3>
+    <h5>🧠 AI Gamified Traffic Sign Recognition Tool</h5>
     <p>Built an <strong>AI-powered gamified application</strong> to help users learn <em>panneaux de circulation</em> (road signs) interactively.</p>
     <ul>
       <li>Integrated <strong>YOLOv8 for real-time object detection</strong> and classification of traffic signs.</li>
@@ -141,7 +141,7 @@ Empowering people to take care of their mental health through technology 💫
   </div>
 
   <div class="project">
-    <h3>🌐 SEO Optimization with Machine Learning</h3>
+    <h5>🌐 SEO Optimization with Machine Learning</h5>
     <p>Developed a <strong>machine learning-based solution</strong> to dynamically optimize web content.</p>
     <ul>
       <li>Boosted <strong>SEO performance</strong> and <strong>user engagement</strong> by analyzing content structure and keywords.</li>
@@ -150,7 +150,7 @@ Empowering people to take care of their mental health through technology 💫
   </div>
 
   <div class="project">
-    <h3>📦 Smart Inventory Management Web App</h3>
+    <h5>📦 Smart Inventory Management Web App</h5>
     <p>Created a full-stack <strong>inventory management platform</strong> with AI integration.</p>
     <ul>
       <li>Provided <strong>real-time updates</strong> and <strong>optimization of stock</strong> based on usage patterns.</li>
@@ -159,7 +159,7 @@ Empowering people to take care of their mental health through technology 💫
   </div>
 
   <div class="project">
-    <h3>📚 E-Learning Platform with AI-Powered Features</h3>
+    <h5>📚 E-Learning Platform with AI-Powered Features</h5>
     <p>Built a scalable <strong>e-learning system</strong> with:</p>
     <ul>
       <li><strong>Role-based access control</strong>, course creation, and progress tracking.</li>
@@ -168,13 +168,15 @@ Empowering people to take care of their mental health through technology 💫
   </div>
 
   <div class="project">
-    <h3>😄 Emotion Classification Model (95% Accuracy)</h3>
+    <h5>😄 Emotion Classification Model (95% Accuracy)</h5>
     <p>Developed a CNN-based model to classify emotions: <strong>joy, sadness, anger, and fear</strong>.</p>
     <ul>
       <li>Achieved <strong>95% accuracy</strong> on test data.</li>
       <li>Used <strong>Batch Normalization</strong>, <strong>Dropout</strong>, and <strong>Global Max Pooling</strong> to improve performance and reduce overfitting.</li>
     </ul>
   </div>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=✨+Thank+you+for+visiting+my+profile!+✨" alt="Thank you message" />
 </p>
