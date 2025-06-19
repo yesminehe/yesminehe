@@ -1,14 +1,21 @@
 <div align="center">
-  <img src="./galaxy-13851_256.gif" alt="Cool Animation" width="40%" />
+
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&pause=500&color=DC2525&center=true&vCenter=true&width=700&lines=Hi+I'm+Yasmine+Hichri+;Software+Engineer+;Tech+Explorer+Girl;Growth+Hacker+" alt="Typing SVG" /> 
 </div>
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&pause=1000&color=9F79EE&center=true&vCenter=true&width=435&lines=AI+Developer+🌌;Tech+Explorer+Girl🚀;Building+Mentexa+🌠;Growth+Hacker+🧠;Web+Engineer+🛠️" alt="Typing SVG" />
-</h1>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h1>Hi I'm Yasmine 🌠</h1>
-<p>As a software engineering student with over 4 years of experience in Full Stack Development and Growth Hacking for clients globally, I excel in driving tech innovation and creating impactful user experiences. Known for my strategic vision and leadership, I bring technical expertise and a results-oriented approach to every project.</p> 
-<p><a href="mailto:yasminehichri01@gmail.com">📧 Email: yasminehichri01@gmail.com</a></p> 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+|<img src="./Capture d'écran 2025-06-19 182803.png" alt="Robot Yasmine" />|
+|--|
+| As a software engineering student with over 4 years of experience in Full Stack Development and Growth Hacking for clients globally, I excel in driving tech innovation and creating impactful user experiences. Known for my strategic vision and leadership, I bring technical expertise and a results-oriented approach to every project. |
+
+<p align="center">
+  <a href="mailto:yasminehichri01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yasmine-hichri/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
 
 ##Programming Languages 🚀 
 <!-- Languages -->
@@ -78,9 +85,6 @@
 </p>
  <!-- Analytics & SEO -->
 ## Analytics & SEO
- <p>
-  I believe that any digital project needs strong SEO and analytics foundations. I use Google Analytics to track and analyze user behavior, enabling me to make data-driven decisions to improve user engagement and site performance. Google Search Console helps me monitor website health and optimize content for search engines, ensuring that my projects achieve higher visibility and drive organic traffic.
-</p>
 <p>
   <img alt="Google Analytics" src="https://img.shields.io/badge/-Google%20Analytics-4285F4?style=flat-square&logo=google-analytics&logoColor=white" />
   <img alt="Google Search Console" src="https://img.shields.io/badge/-Google%20Search%20Console-4285F4?style=flat-square&logo=google&logoColor=white" />
@@ -110,15 +114,18 @@
   <img alt="Design Patterns" src="https://img.shields.io/badge/-Design_Patterns-4B0082?style=flat-square&logoColor=white" />
   <img alt="UML" src="https://img.shields.io/badge/-UML-007396?style=flat-square&logoColor=white" />
 </p>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 
 ## By the way here are some of my statistics 🚀
-![yesminehe's github stats](https://github-readme-stats.vercel.app/api?username=yesminehe&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yesminehe&theme=tokyonight" alt="mystreak"/>
-![yesminehe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesminehe&theme=tokyonight&layout=compact)
+<div align="center">
+  
+![yesminehe's github stats](https://github-readme-stats.vercel.app/api?username=yesminehe&show_icons=true&theme=date_night)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yesminehe&theme=date_night" alt="mystreak"/>
+![yesminehe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesminehe&theme=date_night&layout=compact)
+</div>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 ## 🧠 Current Focus
 
 I'm currently working on **Mentexa**, a next-gen **coaching mind platform** that combines:
@@ -128,7 +135,7 @@ I'm currently working on **Mentexa**, a next-gen **coaching mind platform** that
 - 📈 Real-time health metrics  
 
 Empowering people to take care of their mental health through technology 💫
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
  <h2>🚀 Projects</h2>
 
   <div class="project">
@@ -175,10 +182,10 @@ Empowering people to take care of their mental health through technology 💫
       <li>Used <strong>Batch Normalization</strong>, <strong>Dropout</strong>, and <strong>Global Max Pooling</strong> to improve performance and reduce overfitting.</li>
     </ul>
   </div>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=✨+Thank+you+for+visiting+my+profile!+✨" alt="Thank you message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=DC2525&center=true&vCenter=true&width=700&lines=✨+Thank+you+for+visiting+my+profile!+✨" alt="Thank you message" />
 </p>
 
 <p align="center">
