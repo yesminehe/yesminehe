@@ -1,4 +1,4 @@
-|<img src="./Capture d'écran 2025-06-19 182803.png" alt="Robot Yasmine" />|
+|<img src="./Capture d'écran 2025-09-15 102354.png" alt="Robot Yasmine" />|
 |--|
 | As a software engineering student with over 4 years of experience in Full Stack Development and Growth Hacking for clients globally, I excel in driving tech innovation and creating impactful user experiences. Known for my strategic vision and leadership, I bring technical expertise and a results-oriented approach to every project.
    <b>Feel free to reach out!</b> <a href="mailto:yasminehichri01@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://www.linkedin.com/in/yasmine-hichri-107/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>|
