@@ -3,8 +3,9 @@
 | As a software engineering student with over 4 years of experience in Full Stack Development and Growth Hacking for clients globally, I excel in driving tech innovation and creating impactful user experiences. Known for my strategic vision and leadership, I bring technical expertise and a results-oriented approach to every project.
    <b>Feel free to reach out!</b> <a href="mailto:yasminehichri01@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://www.linkedin.com/in/yasmine-hichri-107/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>|
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&pause=500&color=DC2525&center=true&vCenter=true&width=700&lines=Hi+I'm+Yasmine+Hichri+;Software+Engineer+;Tech+Explorer+Girl;Growth+Hacker+" alt="Typing SVG" /> 
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&pause=500&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Yasmine+Hichri+;Software+Engineer+;Tech+Explorer+Girl;Growth+Hacker+" alt="Typing SVG" /> 
 </div>
+
 
 | Section | Technologies |
 |---------|--------------|
@@ -27,10 +28,12 @@
 ## By the way here are some of my statistics 🚀
 <div align="center">
   
-![yesminehe's github stats](https://github-readme-stats.vercel.app/api?username=yesminehe&show_icons=true&theme=date_night)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yesminehe&theme=date_night" alt="mystreak"/>
-![yesminehe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesminehe&theme=date_night&layout=compact)
+![yesminehe's github stats](https://github-readme-stats.vercel.app/api?username=yesminehe&show_icons=true&theme=blue_navy)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yesminehe&theme=blue_navy" alt="mystreak"/>
+![yesminehe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesminehe&theme=blue_navy&layout=compact)
+
 </div>
+
 
 
 ## 🧠 Current Focus
@@ -92,8 +95,9 @@ Empowering people to take care of their mental health through technology 💫
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=DC2525&center=true&vCenter=true&width=700&lines=✨+Thank+you+for+visiting+my+profile!+✨" alt="Thank you message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=✨+Thank+you+for+visiting+my+profile!+✨" alt="Thank you message" />
 </p>
+
 
 <p align="center">
   <strong>Let’s connect and build something amazing together 🚀</strong>
