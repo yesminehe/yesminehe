@@ -82,14 +82,6 @@ Empowering people to take care of their mental health through technology 💫
     </ul>
   </div>
 
-  <div class="project">
-    <h5>😄 Emotion Classification Model (95% Accuracy)</h5>
-    <p>Developed a CNN-based model to classify emotions: <strong>joy, sadness, anger, and fear</strong>.</p>
-    <ul>
-      <li>Achieved <strong>95% accuracy</strong> on test data.</li>
-      <li>Used <strong>Batch Normalization</strong>, <strong>Dropout</strong>, and <strong>Global Max Pooling</strong> to improve performance and reduce overfitting.</li>
-    </ul>
-  </div>
 
 
 <p align="center">
