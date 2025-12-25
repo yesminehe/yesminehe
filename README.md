@@ -28,7 +28,6 @@ As a software engineer with over 3 years of experience in Full Stack Development
   
 ![yesminehe's github stats](https://github-readme-stats.vercel.app/api?username=yesminehe&show_icons=true&theme=blue_navy)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yesminehe&theme=blue_navy" alt="mystreak"/>
-![yesminehe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesminehe&theme=blue_navy&layout=compact)
 
 </div>
 
