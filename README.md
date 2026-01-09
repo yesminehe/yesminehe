@@ -24,12 +24,11 @@ As a software engineer with over 3 years of experience in Full Stack Development
 
 
 ## By the way here are some of my statistics 🚀
-<div align="center">
-  
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yesminehe&theme=github-compact)
+
 ![yesminehe's github stats](https://github-readme-stats.vercel.app/api?username=yesminehe&show_icons=true&theme=blue_navy)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yesminehe&theme=blue_navy" alt="mystreak"/>
 
-</div>
 
 
 
