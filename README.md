@@ -26,8 +26,25 @@ As a software engineer with over 3 years of experience in Full Stack Development
 ## By the way here are some of my statistics 🚀
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yesminehe&theme=github-compact)
 
-![yesminehe's github stats](https://github-readme-stats.vercel.app/api?username=yesminehe&show_icons=true&theme=blue_navy)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yesminehe&theme=blue_navy" alt="mystreak"/>
+![GitHub Snake](https://raw.githubusercontent.com/yesminehe/yesminehe/output/github-snake.svg)
+
+![Metrics](https://raw.githubusercontent.com/yesminehe/yesminehe/main/github-metrics.svg)
+
+![GitHub Contributions](https://ghchart.rshah.org/yesminehe)
+
+![GitHub Contributions](https://ghchart.rshah.org/409ba5/yesminehe)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yesminehe&theme=blue-navy)
+
+
+## 🧠 Activity
+
+![Metrics](https://raw.githubusercontent.com/yesminehe/yesminehe/main/github-metrics.svg)
+
+## 🐍 Contributions
+
+![Snake](https://raw.githubusercontent.com/yesminehe/yesminehe/output/github-snake.svg)
+
 
 
 
