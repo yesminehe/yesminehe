@@ -26,10 +26,6 @@ As a software engineer with over 3 years of experience in Full Stack Development
 ## By the way here are some of my statistics 🚀
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yesminehe&theme=github-compact)
 
-![Metrics](https://raw.githubusercontent.com/yesminehe/yesminehe/main/github-metrics.svg)
-
-![Snake](https://raw.githubusercontent.com/yesminehe/yesminehe/output/github-snake.svg)
-
 ## 🧠 Current Focus
 
 I'm currently working on **Mentexa**, a next-gen **coaching mind platform** that combines:
