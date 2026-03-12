@@ -87,7 +87,7 @@ As a software engineer with over 3 years of experience in Full Stack Development
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=✨+Thank+you+for+visiting+my+profile!+✨" alt="Thank you message" />
 </p>
 
-
+One of my hidden skills is template design. Check out my Dribbble profile to see some of my work [Dribbble](https://dribbble.com/yasmine-hichri).
 <p align="center">
   <strong>Let’s connect and build something amazing together 🚀</strong>
 </p>
