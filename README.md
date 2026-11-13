@@ -1,4 +1,5 @@
-As a software engineer with over 3 years of experience in Full Stack Development and Growth Hacking for clients globally, I excel in driving tech innovation and creating impactful user experiences. Known for my strategic vision and leadership, I bring technical expertise and a results-oriented approach to every project.
+Full-stack Software Engineer (3+ years) building production systems across Web, Mobile, and AI, from React.js/Next.js applications and cross-platform Flutter apps to LLM-powered pipelines. Proven performance impact, including 40% latency reduction and sub-200ms API response times.
+
    <b>Feel free to reach out!</b> 
    
 yasminehichri01@gmail.com
